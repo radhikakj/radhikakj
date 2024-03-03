@@ -12,18 +12,14 @@
   <img src="https://blog.integral-system.fr/wp-content/uploads/2020/02/33797061.jpg" width="150" height="auto" style="margin: 10px;">
   <img src="https://hackr.io/blog/uploads/images/tensorflow.png" width="150" height="auto" style="margin: 10px;">
   <img src="https://miro.medium.com/max/1400/1*7oukapIBInsovpHkQB3QZg.jpeg" width="150" height="auto" style="margin: 10px;">
+  <img src="https://i.ytimg.com/vi/yh2pLdDb87c/maxresdefault.jpg" width="350" height="auto" style="margin: 30px;" >
+  <img src="https://i.ytimg.com/vi/mgX-2_ybqNk/maxresdefault.jpg" width="350" height="auto" style="margin: 30px;">
   
   
   
   
   
 </div>
-<picture>
-  <div align="center">
-  <img src="https://i.ytimg.com/vi/yh2pLdDb87c/maxresdefault.jpg" width="350" height="auto" style="margin: 30px;" >
-  <img src="https://i.ytimg.com/vi/mgX-2_ybqNk/maxresdefault.jpg" width="350" height="auto" style="margin: 30px;">
-  
-  </div>
-  
-</picture>
+
+
 
