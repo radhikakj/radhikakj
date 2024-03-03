@@ -19,7 +19,11 @@
   
 </div>
 <picture>
+  <div align="center">
   <img src="https://i.ytimg.com/vi/yh2pLdDb87c/maxresdefault.jpg" width="350" height="auto" style="margin: 30px;" >
   <img src="https://i.ytimg.com/vi/mgX-2_ybqNk/maxresdefault.jpg" width="350" height="auto" style="margin: 30px;">
+  
+  </div>
+  
 </picture>
 
