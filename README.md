@@ -9,4 +9,9 @@
   <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="150" height="auto" style="margin: 10px;">
   <img src="https://cdn.educba.com/academy/wp-content/uploads/2020/01/Deep-Learning.jpg" width="150" height="auto" style="margin: 10px;">
   <img src="https://i.ytimg.com/vi/mgX-2_ybqNk/maxresdefault.jpg" width="150" height="auto" style="margin: 10px;">
+  <img src="https://blog.integral-system.fr/wp-content/uploads/2020/02/33797061.jpg" width="150" height="auto" style="margin: 10px;">
 </div>
+<picture>
+  <img src="https://i.ytimg.com/vi/yh2pLdDb87c/maxresdefault.jpg" width="250" height="auto" style="margin: 40px;">
+</picture>
+
