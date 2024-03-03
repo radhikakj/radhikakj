@@ -12,6 +12,6 @@
   <img src="https://blog.integral-system.fr/wp-content/uploads/2020/02/33797061.jpg" width="150" height="auto" style="margin: 10px;">
 </div>
 <picture>
-  <img src="https://i.ytimg.com/vi/yh2pLdDb87c/maxresdefault.jpg" width="250" height="auto" style="margin: 40px;">
+  <img src="https://i.ytimg.com/vi/yh2pLdDb87c/maxresdefault.jpg" >
 </picture>
 
